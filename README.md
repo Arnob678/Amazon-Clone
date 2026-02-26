@@ -26,7 +26,7 @@ A clone of Amazon homepage built using **HTML** and **CSS** only — no JavaScri
 
 ---
 
-## 🎨 CSS Concepts Used
+## CSS Concepts Used
 
 - Flexbox for layout and alignment
 - Background images with `background-size: cover`
